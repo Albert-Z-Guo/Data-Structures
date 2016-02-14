@@ -1,0 +1,88 @@
+CSC 172
+Project 1 MasterMinde
+
+Student Name: Zunran Guo
+Student ID: 28279136
+
+User’s token: PINK ORANGE YELLOW BLUE GREEN RED 
+
+Program's guess:
+PINK ORANGE RED GREEN RED PINK 
+The above guess is the last combinatorics possibility (before elimination) 
+based on your feedback. If the guess is not correct, you may have made a mistake.
+End the game or start over again?
+
+
+The following options are now available:
+'new': Start a new game
+'quit': quit the game
+new
+
+
+A new game is started!
+How many colors would you like to have? (1-6)
+6
+OK. 6 colors.
+How many positions would you like to have? (1-6)
+6
+OK. 6 positions.
+
+
+Program's guess:
+ORANGE ORANGE ORANGE YELLOW YELLOW YELLOW 
+Please enter the number of cases of both correct color and correct position:
+1
+Please enter the number of cases of correct color but wrong position:
+1
+
+
+Program's guess:
+RED RED RED RED YELLOW ORANGE 
+Please enter the number of cases of both correct color and correct position:
+0
+Please enter the number of cases of correct color but wrong position:
+3
+
+
+Program's guess:
+GREEN GREEN GREEN YELLOW ORANGE RED 
+Please enter the number of cases of both correct color and correct position:
+1
+Please enter the number of cases of correct color but wrong position:
+3
+
+
+Program's guess:
+GREEN BLUE BLUE ORANGE RED YELLOW 
+Please enter the number of cases of both correct color and correct position:
+0
+Please enter the number of cases of correct color but wrong position:
+5
+
+
+Program's guess:
+BLUE YELLOW ORANGE GREEN PINK RED 
+Please enter the number of cases of both correct color and correct position:
+1
+Please enter the number of cases of correct color but wrong position:
+5
+
+
+Program's guess:
+YELLOW ORANGE PINK BLUE GREEN RED 
+Please enter the number of cases of both correct color and correct position:
+4
+Please enter the number of cases of correct color but wrong position:
+2
+
+
+Program's guess:
+PINK ORANGE YELLOW BLUE GREEN RED 
+The above guess is the last combinatorics possibility (before elimination) 
+based on your feedback. If the guess is not correct, you may have made a mistake.
+End the game or start over again?
+
+
+The following options are now available:
+'new': Start a new game
+'quit': quit the game
